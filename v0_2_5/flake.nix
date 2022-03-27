@@ -11,6 +11,7 @@
   inputs.src-marggers-v0_2_5.ref   = "refs/tags/v0.2.5";
   inputs.src-marggers-v0_2_5.owner = "metagn";
   inputs.src-marggers-v0_2_5.repo  = "marggers";
+  inputs.src-marggers-v0_2_5.dir   = "";
   inputs.src-marggers-v0_2_5.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
