@@ -11,7 +11,6 @@
   inputs.src-marggers-master.ref   = "refs/heads/master";
   inputs.src-marggers-master.owner = "metagn";
   inputs.src-marggers-master.repo  = "marggers";
-  inputs.src-marggers-master.dir   = "";
   inputs.src-marggers-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
