@@ -1,0 +1,5 @@
+*.exe
+**/*_real.html
+**/*_real_lf.html
+tests/**/*.js
+tests/**/*_nims.nims
