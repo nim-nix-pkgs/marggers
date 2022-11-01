@@ -39,22 +39,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-marggers-master": "src-marggers-master"
+        "src-marggers-v0_3_1": "src-marggers-v0_3_1"
       }
     },
-    "src-marggers-master": {
+    "src-marggers-v0_3_1": {
       "flake": false,
       "locked": {
-        "lastModified": 1666115345,
-        "narHash": "sha256-v5RWxUDBltIyjhgR8fWSWgsMijAOBSs9XREljDEbq9s=",
+        "lastModified": 1663247785,
+        "narHash": "sha256-/S6Z1NBCvmmGrs2AfC6zszTr5MGitYGy1yqMQqGTHiQ=",
         "owner": "metagn",
         "repo": "marggers",
-        "rev": "462271663fb48bd91477fa532161ba6e0ee83b7f",
+        "rev": "1dbd7cb43336fa891a14a0a45e82cdd3d3e70ef9",
         "type": "github"
       },
       "original": {
         "owner": "metagn",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.3.1",
         "repo": "marggers",
         "type": "github"
       }
